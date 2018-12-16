@@ -1,0 +1,37 @@
+.App {
+    text-align: center;
+  }
+  
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 5px;
+  color: white;
+}
+  
+.App-title {
+  font-size: 1.5em;
+}
+  
+.App-intro {
+  font-size: large;
+}
+
+.btn {
+  margin-bottom: 10px;
+}
+ul {
+  list-style: none;
+  margin: 0 0 20px;
+  padding: 0;
+}
+
+select {
+  width: 100px;
+  margin-top: 20px;
+  opacity: inherit
+}
+
+button {
+  margin-left: 10px;
+}
